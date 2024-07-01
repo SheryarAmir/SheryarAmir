@@ -1,4 +1,4 @@
-![logo](https://github.com/SheryarAmir/SheryarAmir/blob/main/a-creative-logo-design-featuring-the-name-sheryar--MbIK1eZgTXuLadoPAZGo3g-RTrA5aEgSXKhzkTPWkj-4g.jpeg)
+![logo]( https://github.com/SheryarAmir/SheryarAmir/blob/main/Neon%20Green%20Gaming%20Channel%20YouTube%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Sheryar Amir</h1>
 <h3 align="center">Full Stack Developer from Northern Pakistan | Building Seamless Digital Solutions</h3>
 
